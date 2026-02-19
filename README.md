@@ -1,9 +1,8 @@
 # Ingeniería 360 - Suite Integral de Campo
 > *Transformando cálculos complejos en decisiones instantáneas para el ingeniero de campo.*
 
-![Ingeniería 360 Banner](ruta/a/banner_ingenieria360.jpg)
 
-## 🚩 El Problema
+
 En planta, los ingenieros pierden tiempo valioso realizando conversiones manuales (4-20mA, vibración) o buscando especificaciones en manuales físicos. La falta de herramientas centralizadas en zonas sin conexión provoca errores de cálculo y retrasa la toma de decisiones críticas.
 
 ## 💡 La Solución
