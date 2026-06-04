@@ -34,4 +34,5 @@ Este repositorio contiene la versión pública de la suite.
 
 ---
 **Gustavo Matheus**
-[LinkedIn] | [Portafolio]
+
+Lead Developer
