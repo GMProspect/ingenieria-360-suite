@@ -33,6 +33,4 @@ Este repositorio contiene la versión pública de la suite.
 *Desarrollado con pasión por la ingeniería de precisión.*
 
 ---
-**Gustavo Matheus**
-
-Lead Developer
+*Created by [GMProspect](https://github.com/GMProspect)*
